@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 - 👩🏻‍💻I am a fullstack web developer based in **New York**
 - ⚡I also work on Search Engine ![Google](https://img.shields.io/badge/-Google-green) and ![Virtual Assistant](https://img.shields.io/badge/-Virtual%20Assistant-red) products.
-- **I** ❤️ ** to make an idea to a product! **
-- 🌱 I’m currently learning Management skills 
+- **I** ❤️ ***to make an idea to a product! ***
+- 🌱 I’m currently learning Typescripts and Management skills.
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
