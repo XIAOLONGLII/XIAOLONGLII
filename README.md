@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" /> -->
 
 
-### Hi there 👋 
 
 🌏  Thanks for stopping by, this is Xiaolong from NYC.
 
 - 👩🏻‍💻I am a fullstack web developer based in **New York**
+- I also work on Search Enginee Products https://img.shields.io/badge/Google-Google-green
 - **I** ❤️ **to make an idea to a product! **
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
