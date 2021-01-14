@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🌏  Thanks for stopping by, this is Xiaolong from NYC.
 
 - 👩🏻‍💻I am a fullstack web developer based in **New York**
-- I also work on Search Enginee Products ![Google](https://img.shields.io/badge/Google-Google-green)
+- I also work on Search Engine ![Google](https://img.shields.io/badge/-Google-green) and ![Virtual Assistant](https://img.shields.io/badge/-Virtual%20Assistant-red) products.
 - **I** ❤️ **to make an idea to a product! **
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
